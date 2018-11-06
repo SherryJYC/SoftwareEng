@@ -1,7 +1,7 @@
 # SoftwareEng
 > COMP3211 Project (2018~2019 Sem 1)  
 
-## Project In Progess!! :fire:
+## Project In Progess :fire:
 
 :waxing_crescent_moon:
 :first_quarter_moon:
@@ -12,7 +12,7 @@
 :waning_crescent_moon:
 :last_quarter_moon_with_face:
 
-## Checklist
+## Checklist :clipboard:
 - [ ] CrossTab
 - [ ] Ta..balabala
 - [ ] BPNN
@@ -21,5 +21,5 @@
 - [ ] Presentation
 - [ ] Report
 
-## Our link to Google Drive
-+ https://drive.google.com/drive/folders/1upcWOaq8YBB4QD36Dfm4Tmeq0Rxs_wQ_
+## Our link to Google Drive :notebook:
++ [Click Me](https://drive.google.com/drive/folders/1upcWOaq8YBB4QD36Dfm4Tmeq0Rxs_wQ_)
